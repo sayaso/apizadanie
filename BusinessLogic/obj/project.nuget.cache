@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cQu6V1qRUgE=",
+  "dgSpecHash": "9PtPD7/LF8w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\BusinessLogic\\BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\BusinessLogic\\BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aliss\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\aliss\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

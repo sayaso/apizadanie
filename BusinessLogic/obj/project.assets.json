@@ -2037,11 +2037,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\BusinessLogic\\BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\BusinessLogic\\BusinessLogic.csproj",
       "projectName": "BusinessLogic",
-      "projectPath": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\BusinessLogic\\BusinessLogic.csproj",
+      "projectPath": "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\BusinessLogic\\BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\aliss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\BusinessLogic\\obj\\",
+      "outputPath": "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aliss\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2058,8 +2058,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\DataAccess\\DataAccess.csproj"
             }
           }
         }

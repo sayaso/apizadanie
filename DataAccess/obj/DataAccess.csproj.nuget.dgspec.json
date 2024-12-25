@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\aliss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aliss\\AppData\\Roaming\\NuGet\\NuGet.Config",

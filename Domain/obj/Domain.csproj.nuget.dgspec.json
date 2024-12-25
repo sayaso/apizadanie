@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\Domain\\Domain.csproj": {}
+    "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\Domain\\Domain.csproj": {
+    "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\aliss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aliss\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+w63hcAclq8=",
+  "dgSpecHash": "uYZw6BRBUmM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\apism\\Toours.csproj",
+  "projectFilePath": "C:\\Users\\aliss\\OneDrive\\Документы\\GitHub\\apizadanie\\apism\\Toours.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aliss\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\aliss\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
