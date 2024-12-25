@@ -1,0 +1,7 @@
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\HotelRus\obj\Debug\net6.0\Toours.csproj.AssemblyReference.cache
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\HotelRus\obj\Debug\net6.0\Toours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\HotelRus\obj\Debug\net6.0\Toours.AssemblyInfoInputs.cache
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\HotelRus\obj\Debug\net6.0\Toours.AssemblyInfo.cs
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\HotelRus\obj\Debug\net6.0\Toours.csproj.CoreCompileInputs.cache
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\HotelRus\obj\Debug\net6.0\Toours.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\HotelRus\obj\Debug\net6.0\Toours.MvcApplicationPartsAssemblyInfo.cache

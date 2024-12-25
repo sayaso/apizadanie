@@ -1,0 +1,34 @@
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\bin\Debug\net6.0\BusinessLogic.runtimeconfig.json
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\obj\Debug\net6.0\BusinessLogic.genruntimeconfig.cache
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\bin\Debug\net6.0\DataAccess.dll
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\taisi\OneDrive\Рабочий стол\ffawe\BusinessLogic\obj\Debug\net6.0\Business.CF5D6E35.Up2Date
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\bin\Debug\net6.0\BusinessLogic.runtimeconfig.json
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\bin\Debug\net6.0\DataAccess.dll
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\obj\Debug\net6.0\Business.CF5D6E35.Up2Date
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\obj\Debug\net6.0\BusinessLogic.genruntimeconfig.cache
+C:\Users\aliss\OneDrive\Desktop\Hotel-main\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
