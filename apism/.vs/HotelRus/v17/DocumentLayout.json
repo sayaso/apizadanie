@@ -3,6 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\apism\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF9EEAC7-8603-49C7-9C53-CA4C4735F163}|..\\BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\aliss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\apizadanie\\businesslogic.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9EEAC7-8603-49C7-9C53-CA4C4735F163}|..\\BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\aliss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\apizadanie\\businesslogic.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7F298F-EFE1-4B03-89D7-E5C9E034247F}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\aliss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\apizadanie\\businesslogic\\services\\userservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF2B09C-3C71-420E-86E4-A472AF7689AF}|..\\Domain\\Domain.csproj|c:\\users\\aliss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\apizadanie\\domain\\interfaces\\repositoriesbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF2B09C-3C71-420E-86E4-A472AF7689AF}|..\\Domain\\Domain.csproj|c:\\users\\aliss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\apizadanie\\domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4219F918-5DB8-4A0F-ABD8-C6A114438A08}|..\\DataAccess\\DataAccess.csproj|c:\\users\\aliss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\apizadanie\\dataaccess\\repositories\\repositoriesbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A308EF08-4E43-4C55-99AE-9864BA0EB6E6}|Toours.csproj|c:\\users\\aliss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\apizadanie\\apism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A308EF08-4E43-4C55-99AE-9864BA0EB6E6}|Toours.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +41,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\BusinessLogic.Tests\\UserServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic.Tests\\UserServiceTest.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\BusinessLogic.Tests\\UserServiceTest.cs",
+              "RelativeToolTip": "..\\BusinessLogic.Tests\\UserServiceTest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvxQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T23:34:56.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\BusinessLogic.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\BusinessLogic.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\BusinessLogic.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T23:33:55.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserServis.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\BusinessLogic\\Services\\UserServis.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Services\\UserServis.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\BusinessLogic\\Services\\UserServis.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Services\\UserServis.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T23:03:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoriesBase.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\Domain\\Interfaces\\RepositoriesBase.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\RepositoriesBase.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\Domain\\Interfaces\\RepositoriesBase.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\RepositoriesBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:55:44.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\Domain\\Interfaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\Domain\\Interfaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:55:42.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoriesBase.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\DataAccess\\Repositories\\RepositoriesBase.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repositories\\RepositoriesBase.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\DataAccess\\Repositories\\RepositoriesBase.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repositories\\RepositoriesBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:55:34.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\apism\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

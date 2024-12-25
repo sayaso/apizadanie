@@ -1,53 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\apism\\",
+  "WorkspaceRootPath": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\apism\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4219F918-5DB8-4A0F-ABD8-C6A114438A08}|..\\DataAccess\\DataAccess.csproj|c:\\users\\aliss\\onedrive\\desktop\\apism\\dataaccess\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4219F918-5DB8-4A0F-ABD8-C6A114438A08}|..\\DataAccess\\DataAccess.csproj|c:\\users\\aliss\\onedrive\\desktop\\apism\\dataaccess\\wrapper\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4219F918-5DB8-4A0F-ABD8-C6A114438A08}|..\\DataAccess\\DataAccess.csproj|c:\\users\\aliss\\onedrive\\desktop\\apism\\dataaccess\\wrapper\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A308EF08-4E43-4C55-99AE-9864BA0EB6E6}|Toours.csproj|c:\\users\\aliss\\onedrive\\desktop\\apism\\apism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A308EF08-4E43-4C55-99AE-9864BA0EB6E6}|Toours.csproj|c:\\users\\aliss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\apizadanie\\apism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A308EF08-4E43-4C55-99AE-9864BA0EB6E6}|Toours.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4219F918-5DB8-4A0F-ABD8-C6A114438A08}|..\\DataAccess\\DataAccess.csproj|c:\\users\\aliss\\onedrive\\desktop\\apism\\dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4219F918-5DB8-4A0F-ABD8-C6A114438A08}|..\\DataAccess\\DataAccess.csproj|c:\\users\\aliss\\onedrive\\desktop\\apism\\dataaccess\\repositories\\repositoriesbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4219F918-5DB8-4A0F-ABD8-C6A114438A08}|..\\DataAccess\\DataAccess.csproj|c:\\users\\aliss\\onedrive\\desktop\\apism\\dataaccess\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4219F918-5DB8-4A0F-ABD8-C6A114438A08}|..\\DataAccess\\DataAccess.csproj|c:\\users\\aliss\\onedrive\\desktop\\apism\\dataaccess\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4219F918-5DB8-4A0F-ABD8-C6A114438A08}|..\\DataAccess\\DataAccess.csproj|c:\\users\\aliss\\onedrive\\desktop\\apism\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCF2B09C-3C71-420E-86E4-A472AF7689AF}|..\\Domain\\Domain.csproj|c:\\users\\aliss\\onedrive\\desktop\\apism\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aliss\\OneDrive\\Desktop\\Hotel-main\\DataAccess\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A308EF08-4E43-4C55-99AE-9864BA0EB6E6}|Toours.csproj|c:\\users\\aliss\\onedrive\\desktop\\apism\\apism\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A308EF08-4E43-4C55-99AE-9864BA0EB6E6}|Toours.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aliss\\OneDrive\\Desktop\\Hotel-main\\DataAccess\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aliss\\OneDrive\\Desktop\\Hotel-main\\DataAccess\\Wrapper\\RepositoryWrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aliss\\OneDrive\\Desktop\\Hotel-main\\DataAccess\\Wrapper\\IRepositoryWrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,188 +22,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "..\\DataAccess\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "..\\DataAccess\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T22:32:17.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RepositoriesBase.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\Repositories\\RepositoriesBase.cs",
-              "RelativeDocumentMoniker": "..\\DataAccess\\Repositories\\RepositoriesBase.cs",
-              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\Repositories\\RepositoriesBase.cs",
-              "RelativeToolTip": "..\\DataAccess\\Repositories\\RepositoriesBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T22:32:15.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RepositoryWrapper.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
-              "RelativeDocumentMoniker": "..\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
-              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
-              "RelativeToolTip": "..\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T22:32:10.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRepositoryWrapper.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\Wrapper\\IRepositoryWrapper.cs",
-              "RelativeDocumentMoniker": "..\\DataAccess\\Wrapper\\IRepositoryWrapper.cs",
-              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\Wrapper\\IRepositoryWrapper.cs",
-              "RelativeToolTip": "..\\DataAccess\\Wrapper\\IRepositoryWrapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T22:32:09.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\DataAccess\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "..\\DataAccess\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T22:32:06.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IRepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\Interfaces\\IRepositoryBase.cs",
-              "RelativeDocumentMoniker": "..\\DataAccess\\Interfaces\\IRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\Interfaces\\IRepositoryBase.cs",
-              "RelativeToolTip": "..\\DataAccess\\Interfaces\\IRepositoryBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T22:32:05.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\Models\\Payment.cs",
-              "RelativeDocumentMoniker": "..\\DataAccess\\Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\Models\\Payment.cs",
-              "RelativeToolTip": "..\\DataAccess\\Models\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T22:32:02.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\DataAccess\\Class1.cs",
-              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\DataAccess\\Class1.cs",
-              "RelativeToolTip": "..\\DataAccess\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T22:31:59.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Domain",
-              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "..\\Domain\\Domain.csproj",
-              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\Domain\\Domain.csproj",
-              "RelativeToolTip": "..\\Domain\\Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-25T22:31:58.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Desktop\\Hotel-main\\DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "..\\..\\Hotel-main\\DataAccess\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Desktop\\Hotel-main\\DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "..\\..\\Hotel-main\\DataAccess\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T22:24:15.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RepositoryWrapper.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Desktop\\Hotel-main\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
-              "RelativeDocumentMoniker": "..\\..\\Hotel-main\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
-              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Desktop\\Hotel-main\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
-              "RelativeToolTip": "..\\..\\Hotel-main\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T22:21:53.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IRepositoryWrapper.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Desktop\\Hotel-main\\DataAccess\\Wrapper\\IRepositoryWrapper.cs",
-              "RelativeDocumentMoniker": "..\\..\\Hotel-main\\DataAccess\\Wrapper\\IRepositoryWrapper.cs",
-              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Desktop\\Hotel-main\\DataAccess\\Wrapper\\IRepositoryWrapper.cs",
-              "RelativeToolTip": "..\\..\\Hotel-main\\DataAccess\\Wrapper\\IRepositoryWrapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T22:21:51.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Desktop\\Hotel-main\\DataAccess\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\..\\Hotel-main\\DataAccess\\Class1.cs",
-              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Desktop\\Hotel-main\\DataAccess\\Class1.cs",
-              "RelativeToolTip": "..\\..\\Hotel-main\\DataAccess\\Class1.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T22:21:49.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\apism\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\apism\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T22:21:40.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\apism\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\apism\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\aliss\\OneDrive\\Desktop\\apism\\apism\\Program.cs",
+              "ToolTip": "C:\\Users\\aliss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\apizadanie\\apism\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
